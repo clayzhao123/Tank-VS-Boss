@@ -12,6 +12,7 @@ I will put the prompt text for Claude below, and also synchronize some situation
 
 
 1.（First prompt text）
+
 I want to make a bullet-hell game. The idea is:
 1. There is a protagonist who fires straight bullets
 2. There is a boss who fires all kinds of bullets
